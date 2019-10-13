@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\TheRoot\TheRoot\bin\Debug\TheRoot.exe.config
+C:\Users\Admin\source\repos\TheRoot\TheRoot\bin\Debug\TheRoot.exe
+C:\Users\Admin\source\repos\TheRoot\TheRoot\bin\Debug\TheRoot.pdb
+C:\Users\Admin\source\repos\TheRoot\TheRoot\obj\Debug\TheRoot.Properties.Resources.resources
+C:\Users\Admin\source\repos\TheRoot\TheRoot\obj\Debug\TheRoot.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TheRoot\TheRoot\obj\Debug\TheRoot.exe
+C:\Users\Admin\source\repos\TheRoot\TheRoot\obj\Debug\TheRoot.pdb
+C:\Users\Admin\source\repos\TheRoot\TheRoot\obj\Debug\TheRoot.Admin.resources
+C:\Users\Admin\source\repos\TheRoot\TheRoot\obj\Debug\TheRoot.Form1.resources
+C:\Users\Admin\source\repos\TheRoot\TheRoot\obj\Debug\TheRoot.Usuario.resources
+C:\Users\Admin\source\repos\TheRoot\TheRoot\obj\Debug\TheRoot.csprojAssemblyReference.cache
